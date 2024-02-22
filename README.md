@@ -23,3 +23,15 @@ is the training process with PDF correction.
 Model implementation and visualization
 ----------
 The model is visualized by prediction. The prediction is realized by script 'plots' in './visualization'
+
+
+Cite this work
+----------
+```
+@article{xue2024physics,
+  title={Physics informed data-driven near-wall modelling for lattice Boltzmann simulation of high Reynolds number turbulent flows},
+  author={Xue, Xiao and Wang, Shuo and Yao, Hua-Dong and Davidson, Lars and Coveney, Peter V},
+  journal={arXiv preprint arXiv:2402.08037},
+  year={2024}
+}
+```
